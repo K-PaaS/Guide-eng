@@ -1,6 +1,6 @@
 ### Index
 
-## PaaS-TA 가이드 문서  
+## PaaS-TA Guide Documents  
 - Application Platform (AP)  
   - [Architecture](https://github.com/PaaS-TA/application-platform-guide-eng/blob/master/architecture/README.md)  
   - [Installation Guide](https://github.com/PaaS-TA/application-platform-guide-eng/blob/master/install/README.md)  
