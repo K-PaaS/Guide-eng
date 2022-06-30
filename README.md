@@ -13,7 +13,7 @@
 * Container Platform (CP)  
   * [Architechture](https://github.com/PaaS-TA/paas-ta-container-platform-guide-eng/blob/master/architecture/Readme.md)  
   * [Installation Guide](https://github.com/PaaS-TA/paas-ta-container-platform-guide-eng/blob/master/install-guide/Readme.md)  
-  * [](https://github.com/PaaS-TA/paas-ta-container-platform-guide-eng/blob/master/use-guide/Readme.md)  
+  * [User Guide](https://github.com/PaaS-TA/paas-ta-container-platform-guide-eng/blob/master/use-guide/Readme.md)  
   
 + Monitoring  
   + [Architechture](https://github.com/PaaS-TA/paas-ta-monitoring-guide-eng/blob/master/architecture/PAAS-TA_MONITORING_ARCHITECTURE.md)  
