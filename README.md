@@ -16,5 +16,5 @@
   * [User Guide](https://github.com/PaaS-TA/paas-ta-container-platform-guide-eng/blob/master/use-guide/Readme.md)  
   
 + Monitoring  
-  + [Architechture](https://github.com/PaaS-TA/paas-ta-monitoring-guide-eng/blob/master/architecture/PAAS-TA_MONITORING_ARCHITECTURE.md)  
-  + [Installation Guide](https://github.com/PaaS-TA/paas-ta-monitoring-guide-eng/blob/master/install/PAAS-TA_MONITORING_INSTALL_GUIDE.md)  
+  + [Architechture](https://github.com/PaaS-TA/monitoring-guide-eng/blob/master/architecture/PAAS-TA_MONITORING_ARCHITECTURE.md)  
+  + [Installation Guide](https://github.com/PaaS-TA/monitoring-guide-eng/blob/master/install/PAAS-TA_MONITORING_INSTALL_GUIDE.md)  
