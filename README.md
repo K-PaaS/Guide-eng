@@ -1,14 +1,14 @@
 ### Index
 
-## PaaS-TA Guide Documents  
+## K-PaaS Guide Documents  
 - Application Platform (AP)  
-  - [Architecture](https://github.com/PaaS-TA/application-platform-guide-eng/blob/master/architecture/README.md)  
-  - [Installation Guide](https://github.com/PaaS-TA/application-platform-guide-eng/blob/master/install/README.md)  
-  - [User Guide](https://github.com/PaaS-TA/application-platform-guide-eng/blob/master/user_guide/README.md)  
+  - [Architecture](https://github.com/K-PaaS/application-platform-guide-eng/blob/master/architecture/README.md)  
+  - [Installation Guide](https://github.com/K-PaaS/application-platform-guide-eng/blob/master/install/README.md)  
+  - [User Guide](https://github.com/K-PaaS/application-platform-guide-eng/blob/master/user_guide/README.md)  
 
-+ PaaS-TA Sidecar  
-  - [Architechture](https://github.com/PaaS-TA/sidecar-guide-eng/blob/master/architecture/sidecar.md)  
-  - [Installation Guide](https://github.com/PaaS-TA/sidecar-guide-eng/tree/master/install/README.md)  
++ K-PaaS Sidecar  
+  - [Architechture](https://github.com/K-PaaS/sidecar-guide-eng/blob/master/architecture/sidecar.md)  
+  - [Installation Guide](https://github.com/K-PaaS/sidecar-guide-eng/tree/master/install/README.md)  
 
 * Container Platform (CP)  
   * [Architechture](https://github.com/PaaS-TA/paas-ta-container-platform-guide-eng/blob/master/architecture/Readme.md)  
